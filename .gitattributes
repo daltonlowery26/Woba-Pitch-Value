@@ -4,5 +4,4 @@ C:/Users/dalto/OneDrive/Pictures/Documents/Projects/MLB/pitch_value/data/**/* fi
 data/datasets/*.csv filter=lfs diff=lfs merge=lfs -text
 data/datasets/old[[:space:]]datasets/*.csv filter=lfs diff=lfs merge=lfs -text
 datasets/* filter=lfs diff=lfs merge=lfs -text
-*.ipynb filter=lfs diff=lfs merge=lfs -text
-*.md filter=lfs diff=lfs merge=lfs -text
+
